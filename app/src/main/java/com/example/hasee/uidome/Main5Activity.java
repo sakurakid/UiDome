@@ -11,6 +11,10 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 这个是spinner的Dome
+ */
+
 public class Main5Activity extends AppCompatActivity implements AdapterView.OnItemSelectedListener{
 
     private TextView tv = null;
